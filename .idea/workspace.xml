@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="04c8e6a4-9371-40cb-a2ea-09d8d2519b6a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pycharm-git-practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python313.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pythonw.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="04c8e6a4-9371-40cb-a2ea-09d8d2519b6a" name="Changes" comment="Добавлен первый коммит">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +54,19 @@
       <option name="presentableId" value="Default" />
       <updated>1763302731892</updated>
     </task>
+    <task id="LOCAL-00001" summary="Добавлен первый коммит">
+      <option name="closed" value="true" />
+      <created>1763303652140</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763303652140</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Добавлен первый коммит" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлен первый коммит" />
   </component>
 </project>

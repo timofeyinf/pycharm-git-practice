@@ -1,3 +1,4 @@
 print("Hello from PyCharm!")
 print("Создал новую ветку")
-print("Тут будет конфликт (main)")
+print("Конфликт разрешен (main)")
+print("Конфликт разрешен (feature-branch)")
